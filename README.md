@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm William Cruz Hernandez</h1>
+<h1 align="center">Hi 👋, I'm Cruz Hernandez William</h1>
 <h3 align="center">Engineering Student at ESIME Culhuacán IPN 🎓</h3>
 
 <br>
