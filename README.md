@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cruz Hernandez William</h1>
-<h3 align="center">Engineering Student at ESIME Culhuacán IPN 🎓</h3>
+# <p align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Cruz+Hernandez+William;Engineering+Student+at+ESIME+Culhuacán+IPN+🎓)](https://git.io/typing-svg)</p>
 
 <br>
 
@@ -37,7 +36,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlserver" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
 </p>
 
 ### Languages:
@@ -84,6 +83,17 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40" />
   <img src="https://img.shields.io/badge/LaTeX-47AF11?style=for-the-badge&logo=LaTeX&logoColor=white" alt="latex" height="40" />
-</p>  
+</p>
 
 <br>
+
+<h3 align="left">GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WilliamCruzH&show_icons=true&locale=en&theme=tokyonight&bg_color=0d1117&text_color=ffffff" alt="WilliamCruzH" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WilliamCruzH&show_icons=true&locale=en&layout=compact&theme=tokyonight&bg_color=0d1117&text_color=ffffff" alt="WilliamCruzH" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WilliamCruzH&theme=tokyonight&background=0d1117" alt="WilliamCruzH" />
+</p>
