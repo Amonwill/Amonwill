@@ -2,6 +2,13 @@
 
 <p align="center">
   <img width="350" height="490" alt="yomero" src="https://github.com/user-attachments/assets/e269819a-ea1a-4140-a825-6e73e4a89678" />
+  Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/william-cruz-hernandez-7942a6187" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://amonwillportafolio.netlify.app/#/home" target="blank"><img src="https://img.shields.io/badge/Portfolio-47AF11?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.instagram.com/amonwill7/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 </p>
 
 
@@ -35,13 +42,7 @@
 
 ---
 
-### 🤝 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/william-cruz-hernandez-7942a6187" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://amonwillportafolio.netlify.app/#/home" target="blank"><img src="https://img.shields.io/badge/Portfolio-47AF11?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://www.instagram.com/amonwill7/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
 
 <br>
 
