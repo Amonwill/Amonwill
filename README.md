@@ -1,9 +1,10 @@
 # <p align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=47AF11&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+William+Cruz+Hernández;Engineering+Student+at+ESIME+Culhuacán+IPN+🎓)](https://git.io/typing-svg)</p>
-<img width="1487" height="2082" alt="yomero" src="https://github.com/user-attachments/assets/bbf4d93f-4e4e-4302-91e1-9ebdf3c7dc85" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WilliamCruzH&label=Profile%20views&color=0e75b6&style=flat" alt="WilliamCruzH" width="10" />
+  <img width="350" height="490" alt="yomero" src="https://github.com/user-attachments/assets/e269819a-ea1a-4140-a825-6e73e4a89678" />
 </p>
+
+
 
 ---
 
@@ -44,4 +45,3 @@
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WilliamCruzH&show_icons=true&theme=radical)
