@@ -15,12 +15,12 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🌱 **Currently:** Learning Web Development and deepening my knowledge in **Data Science**.
-- 📊 **Goal:** Specializing in Data Analysis and large-scale Database Management.
-- ⚡ **Fun Fact:** Extreme hardware enthusiast. Building high-performance rigs is my favorite hobby.
-- 📬 **Contact:** [wcruzhernandez59@gmail.com](mailto:wcruzhernandez59@gmail.com)
+- **Currently:** Learning Web Development and deepening my knowledge in **Data Science**.
+- **Goal:** Specializing in Data Analysis and large-scale Database Management.
+- **Fun Fact:** Extreme hardware enthusiast. Building high-performance rigs is my favorite hobby.
+- **Contact:** [wcruzhernandez59@gmail.com](mailto:wcruzhernandez59@gmail.com)
 
 ---
 
