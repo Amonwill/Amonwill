@@ -1,7 +1,7 @@
 # <p align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=47AF11&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+William+Cruz+Hernández;Engineering+Student+at+ESIME+Culhuacán+IPN+🎓)](https://git.io/typing-svg)</p>
 
 <p align="center">
-  <img width="4800" height="4800" alt="perIComCol" src="https://github.com/user-attachments/assets/7df16b70-fa29-4a72-af73-9d6061c3f449" />
+  <img width="2400" height="2400" alt="perIComCol" src="https://github.com/user-attachments/assets/7df16b70-fa29-4a72-af73-9d6061c3f449" />
 
   Connect with Me
 
